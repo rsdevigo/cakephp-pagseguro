@@ -1,5 +1,5 @@
 {
-    "name": "andrebian/pag_seguro",
+    "name": "rsdevigo/cakephp-pagseguro",
     "description": "CakePHP PagSeguro",
     "type": "cakephp-plugin",
     "keywords": [
@@ -9,12 +9,12 @@
     ],
     "authors": [
         {
-            "name": "Andre Cardoso",
-            "homepage": "http://andrebian.com",
+            "name": "Rodrigo Sanches Devigo",
+            "homepage": "",
             "role": "Author"
         }
     ],        
-    "homepage": "https://github.com/andrebian/cake-plugin-pagseguro",
+    "homepage": "https://github.com/rsdevigo/cakephp-pagseguro",
     "license": "MIT",
     "require": {
 	"pagseguro/php": "@dev",
