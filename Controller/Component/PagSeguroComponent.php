@@ -21,7 +21,7 @@
 *   https://github.com/ftgoncalves/pagseguro/  de Felipe Theodoro Gonçalves, (http://ftgoncalves.com.br)
 */
 
-$vendorDir = ROOT . DS . 'vendor';
+$vendorDir = ROOT . DS .'app'. DS . 'Vendor';
 
 $composerDefinitions = json_decode(file_get_contents(ROOT . DS . 'composer.json'), true);
 
